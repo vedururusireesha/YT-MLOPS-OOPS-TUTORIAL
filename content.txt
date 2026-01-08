@@ -1,0 +1,3 @@
+1. class and object
+class has attributes and methods
+python is called object oriented programming
